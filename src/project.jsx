@@ -25,9 +25,14 @@ function Project(){
         
 <>
         <h1 className="number">{number}</h1>
-        <button className="inc" onClick={addition}>Increment</button>
+        
+        
+        
+        <div className="but">
+            <button className="inc" onClick={addition}>Increment</button>   
         <button className="dec" onClick={sub}>Decrement</button>
         <button className="res" onClick={reset}>reset</button>
+        </div>
         </>
 
 );
