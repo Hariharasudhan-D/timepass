@@ -1,0 +1,24 @@
+body{
+  background-color: rgb(196, 181, 181);
+
+}
+
+.number{
+  text-align: center;
+  font-size: 70px;
+}
+.inc{
+  background-color: rgb(54, 255, 54);
+  padding: 10px;
+  margin-right: 10px;
+}
+.dec{
+  background-color: rgb(255, 156, 7);
+  padding: 10px;
+  margin-right: 10px;
+}
+.res{
+  background-color: rgb(255, 0, 0);
+  padding: 10px;
+  margin-right: 10px;
+}
